@@ -10,4 +10,4 @@ pinned: false
 short_description: سرگوشی - Translates to whispering is a songs recommender
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Access the app at: Amash7/Mood-based-songs-recommender
